@@ -1,0 +1,14 @@
+/* Intro */
+
+#intro::before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -100;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 0px 0px 50px 50px;
+    background-image: url("/assets/images/content/intro-bg.png");
+}

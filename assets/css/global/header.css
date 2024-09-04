@@ -1,0 +1,5 @@
+/* Header Text */
+
+.headerMenu > div:last-child a {
+    color: var(--secondary-text-color);
+}
